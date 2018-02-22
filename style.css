@@ -1,0 +1,17 @@
+#your_worker_result{
+  height:150px;
+}
+#data{
+  margin:20px;
+  text-align:center;
+  color:white;
+  background-color:green;
+  font: bold 50px Helvetica, Verdana, Tahoma;
+  border-radius:100%;
+  padding:20px;
+}
+
+#data.killed{
+  background-color:red;
+    font: bold 50px Helvetica, Verdana, Tahoma;
+}
